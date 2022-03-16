@@ -1,0 +1,44 @@
+
+body{
+background-image: url(https://c.tenor.com/xfsFj7A6lJMAAAAd/galaxy.gif);
+background-size:cover;
+}
+.clase1{
+    text-align: center;
+    display: block;
+    color: wheat;
+}
+.clase2{
+    color: wheat;
+    display: inline-block;
+    background-color: purple;
+}
+.clase3{
+    color: wheat;
+    display: inline-block;
+    background-color: purple;
+}
+.pruebaflex{
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-between;
+    width: 50%;
+    height: 30vh;
+}
+.flexhijo1{
+    align-items:flex-end;
+    color: rgb(27, 4, 37);
+    font-size: large;
+    justify-content:first flex-end
+    flex-wrap wrap;
+    display:block;
+    width: 50%;
+    height: 22.2px;
+    background: linear-gradient(to bottom, white,rgb(137, 108, 206), rgb(228, 48, 245))
+}
+p{
+    color: rgb(226, 182, 240);
+}
+img{
+float:right;
+}

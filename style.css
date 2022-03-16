@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(127, 179, 127);
+}
+div{
+    color: rgb(97, 66, 126);
+}
+a :hover{
+color: rgb(165, 21, 201);
+
+}
+p::after{
+content: "Hola Masho";
+}

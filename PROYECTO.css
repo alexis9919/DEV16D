@@ -1,0 +1,16 @@
+*{
+    background:linear-gradient(to right,rgb(228, 187, 112),rgb(243, 243, 243), rgb(255, 164, 164),rgb(228, 187, 112))
+}
+.titulo {
+    text-align: center;
+    color: rgb(80, 38, 19);
+    font: arial;
+}
+.texto {
+text-align: justify;
+color: rgb(102, 38, 83)
+}
+.links{
+text-align: center;
+font-size:large;
+}
